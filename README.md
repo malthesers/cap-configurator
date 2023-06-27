@@ -1,1 +1,1 @@
-https://malt9830.github.io/cap-configurator/
+https://malthesers.github.io/cap-configurator/
